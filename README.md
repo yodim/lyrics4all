@@ -1,5 +1,9 @@
 # Lyrics4all
 
+Web application built with React that uses Musicmatch API to get songs lyrics and much more...
+
+Request a [CORS Anywhere demo](https://cors-anywhere.herokuapp.com/corsdemo) by [Heroku](https://elements.heroku.com/buttons/marcus2vinicius/cors-anywhere) to be able to proxy the requests.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
